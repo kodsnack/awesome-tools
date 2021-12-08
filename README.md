@@ -9,9 +9,12 @@ Add PR:s with your favourite CLI tools, tips, hacks, et cetera.
 
 - [fnm](https://github.com/Schniz/fnm) - Fast and simple Node.js version manager.
 
+- [Starship](https://starship.rs/) - The minimal, blazing-fast, and infinitely customizable prompt for any shell! 
+
 # json
 
 - [jp](https://github.com/jmespath/jp) - Command line interface to JMESPath (...a query language for JSON.) - http://jmespath.org
 - [jp](https://github.com/sgreben/jp) - Dead simple terminal plots from JSON (or CSV) data. Bar charts, line charts, scatter plots, histograms and heatmaps are supported.
 - [jq](https://stedolan.github.io/jq/) - a lightweight and flexible command-line JSON processor.
 - [jc](https://github.com/kellyjonbrazil/jc) - JSON CLI output utility - takes CLI tools and presents their output in json.
+
