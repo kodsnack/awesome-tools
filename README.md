@@ -8,3 +8,9 @@ Add PR:s with your favourite CLI tools, tips, hacks, et cetera.
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 
 - [fnm](https://github.com/Schniz/fnm) - Fast and simple Node.js version manager.
+
+## advent of code tools
+
+Tools related to advent of code
+
+- [aocrunner](https://github.com/caderek/aocrunner) - JavaScript/TypeScript AoC runner with unit testing, input fetching and solution submission from the terminal.
