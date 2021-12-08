@@ -39,7 +39,14 @@ Add PR:s with your favourite CLI tools, tips, hacks, et cetera.
 
 - [Starship](https://starship.rs/) - The minimal, blazing-fast, and infinitely customizable prompt for any shell! 
 
-# json
+## advent of code tools
+
+Tools related to Advent of code
+
+- [aocrunner](https://github.com/caderek/aocrunner) - JavaScript/TypeScript AoC runner with unit testing, input fetching and solution submission from the terminal.
+
+
+## json
 
 - [jp](https://github.com/jmespath/jp) - Command line interface to JMESPath (...a query language for JSON.) - http://jmespath.org
 - [jp](https://github.com/sgreben/jp) - Dead simple terminal plots from JSON (or CSV) data. Bar charts, line charts, scatter plots, histograms and heatmaps are supported.
