@@ -54,3 +54,9 @@ Tools related to Advent of code
 - [jp](https://github.com/sgreben/jp) - Dead simple terminal plots from JSON (or CSV) data. Bar charts, line charts, scatter plots, histograms and heatmaps are supported.
 - [jq](https://stedolan.github.io/jq/) - a lightweight and flexible command-line JSON processor.
 - [jc](https://github.com/kellyjonbrazil/jc) - JSON CLI output utility - takes CLI tools and presents their output in json.
+
+## git (alias and related tools)
+
+- `lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative`
+- `tree = log --pretty=format:'%C(auto)%h %Cred%ad %Cblue%an%C(auto)%d %Creset%s' --date=short --graph -n 20`
+- [log handling in oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/git.plugin.zsh#L221,L227)
