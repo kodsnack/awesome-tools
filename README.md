@@ -8,3 +8,5 @@ Add PR:s with your favourite CLI tools, tips, hacks, et cetera.
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 
 - [fnm](https://github.com/Schniz/fnm) - Fast and simple Node.js version manager.
+
+- [thefuck](https://github.com/nvbn/thefuck) - A great cli till that corrects your previous mistakes.
