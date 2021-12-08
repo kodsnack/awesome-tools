@@ -9,6 +9,8 @@ Add PR:s with your favourite CLI tools, tips, hacks, et cetera.
 
 - [fnm](https://github.com/Schniz/fnm) - Fast and simple Node.js version manager.
 
+- [thefuck](https://github.com/nvbn/thefuck) - A great cli till that corrects your previous mistakes.
+
 - [fd](https://crates.io/crates/fd-find) - fd is a simple, fast and user-friendly alternative to find.
 
 - [https](https://crates.io/crates/https) - Host These Things Please - a basic HTTP server for hosting a folder fast and simply
