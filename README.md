@@ -3,6 +3,8 @@ Add PR:s with your favourite CLI tools, tips, hacks, et cetera.
 
 - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
 
+- [z](https://github.com/rupa/z) - Jump to your most used directories, based on 'frecency'.
+
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore.
 
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
@@ -60,3 +62,9 @@ Tools related to Advent of code
 - `lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative`
 - `tree = log --pretty=format:'%C(auto)%h %Cred%ad %Cblue%an%C(auto)%d %Creset%s' --date=short --graph -n 20`
 - [log handling in oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/git.plugin.zsh#L221,L227)
+
+
+## other
+
+- [FAQ about displaying stuff in a terminal](https://twitter.com/thingskatedid/status/1316074032379248640) - thingskatedid twitter thread with recomendations
+
