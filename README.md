@@ -45,6 +45,8 @@ Add PR:s with your favourite CLI tools, tips, hacks, et cetera.
 
 - [Starship](https://starship.rs/) - The minimal, blazing-fast, and infinitely customizable prompt for any shell! 
 
+- [agent-qa](https://vostride.com) - Run natural-language web and mobile QA from the CLI, with persistent memidex memory and validated self-improvement.
+
 ## advent of code tools
 
 Tools related to Advent of code
